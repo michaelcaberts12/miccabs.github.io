@@ -1,0 +1,62 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .navbar {
+    background-color:#3b5d50;
+    
+  }
+ 
+  
+  .nav{
+    background-color: #3b5d50;
+  }
+  .nav-item{
+    background-color: #3b5d50;
+  }
+  .hero {
+    background-color: #3b5d50;
+    color: white;
+    padding: 60px 0;
+  }
+  .mb-4{
+    text-align: left;
+
+
+  }
+  .opacity{
+    text-align: left;
+  }
+  .hero-title {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .hero-text {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    color: whitesmoke;
+  }
+  
+  .product-card {
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  }
+  
+  .product-card h5 {
+    margin-top: 1rem;
+    font-weight: 600;
+  }
+  
+  .featured, .why-choose {
+    padding: 60px 0;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 0.9rem;
+  }
+  
